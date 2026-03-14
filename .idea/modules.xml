@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Builder/Builder.iml" filepath="$PROJECT_DIR$/Builder/Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme/Builder-A1 Pacient/Builder-A1 Pacient.iml" filepath="$PROJECT_DIR$/Probleme/Builder-A1 Pacient/Builder-A1 Pacient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme/FactoryMethod - B1 Supe/FactoryMethod - B1 Supe.iml" filepath="$PROJECT_DIR$/Probleme/FactoryMethod - B1 Supe/FactoryMethod - B1 Supe.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme/FactoryMethod-A.2.Spital/FactoryMethod-A.2.Spital.iml" filepath="$PROJECT_DIR$/Probleme/FactoryMethod-A.2.Spital/FactoryMethod-A.2.Spital.iml" />
       <module fileurl="file://$PROJECT_DIR$/Luchian_Raluca-Alexandra_ActivitateCTS2026.iml" filepath="$PROJECT_DIR$/Luchian_Raluca-Alexandra_ActivitateCTS2026.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme/Probleme.iml" filepath="$PROJECT_DIR$/Probleme/Probleme.iml" />
