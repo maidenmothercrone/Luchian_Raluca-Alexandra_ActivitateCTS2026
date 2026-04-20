@@ -10,6 +10,6 @@ public class Main {
          StripeApi plataStripe = new StripeApi();
          PlataProcesor p2 = new StripeAdapter(plataStripe);
 
-         p.proceseazaPlata(175);
+         p2.proceseazaPlata(175);
     }
 }
