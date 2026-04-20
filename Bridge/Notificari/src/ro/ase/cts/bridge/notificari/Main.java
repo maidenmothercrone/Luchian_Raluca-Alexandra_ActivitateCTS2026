@@ -13,6 +13,15 @@ public class Main {
         infoSMS.trimiteNotificare("Notificare SMS: ");
         infoEmail.trimiteNotificare("Notificare email: ");
 
+        Notificare pushNotifSMS = new PushNotification(new SMS());
+        Notificare pushNotifEmail = new PushNotification(new Email());
+        Notificare promoNotifSMS = new PromoNotification(new SMS());
+        Notificare promoNotifEmail = new PromoNotification(new Email());
+
+        pushNotifSMS.trimiteNotificare("");
+        pushNotifEmail.trimiteNotificare("");
+        promoNotifSMS.trimiteNotificare("");
+        promoNotifEmail.trimiteNotificare("");
     }
 
 }
