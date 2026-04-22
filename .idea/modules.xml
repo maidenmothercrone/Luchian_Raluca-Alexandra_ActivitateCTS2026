@@ -10,8 +10,10 @@
       <module fileurl="file://$PROJECT_DIR$/Composite/Composite.iml" filepath="$PROJECT_DIR$/Composite/Composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Decorator/Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Decorator/EditorText/EditorText.iml" filepath="$PROJECT_DIR$/Decorator/EditorText/EditorText.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Facade/Facade.iml" filepath="$PROJECT_DIR$/Facade/Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme/FactoryMethod - B1 Supe/FactoryMethod - B1 Supe.iml" filepath="$PROJECT_DIR$/Probleme/FactoryMethod - B1 Supe/FactoryMethod - B1 Supe.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme/FactoryMethod-A.2.Spital/FactoryMethod-A.2.Spital.iml" filepath="$PROJECT_DIR$/Probleme/FactoryMethod-A.2.Spital/FactoryMethod-A.2.Spital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Facade/HomeCinema/HomeCinema.iml" filepath="$PROJECT_DIR$/Facade/HomeCinema/HomeCinema.iml" />
       <module fileurl="file://$PROJECT_DIR$/Luchian_Raluca-Alexandra_ActivitateCTS2026.iml" filepath="$PROJECT_DIR$/Luchian_Raluca-Alexandra_ActivitateCTS2026.iml" />
       <module fileurl="file://$PROJECT_DIR$/Composite/Meniu/Meniu.iml" filepath="$PROJECT_DIR$/Composite/Meniu/Meniu.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bridge/Notificari/Notificari.iml" filepath="$PROJECT_DIR$/Bridge/Notificari/Notificari.iml" />
