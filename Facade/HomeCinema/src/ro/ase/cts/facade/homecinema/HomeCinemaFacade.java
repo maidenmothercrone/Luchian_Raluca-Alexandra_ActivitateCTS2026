@@ -8,7 +8,7 @@ public class HomeCinemaFacade {
     public void pornesteFilm(){
         televizor.porneste();
         televizor.seteazaHDMI();
-        soundbar.opreste();
+        soundbar.porneste();
         soundbar.seteazaVolum(20);
         blurayPlayer.porneste();
         blurayPlayer.redaDisc();
