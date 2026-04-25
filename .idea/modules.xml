@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/RezolvariExercitii/A.Spital/A.Spital.iml" filepath="$PROJECT_DIR$/RezolvariExercitii/A.Spital/A.Spital.iml" />
       <module fileurl="file://$PROJECT_DIR$/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Adapter/Adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bridge/Bridge.iml" filepath="$PROJECT_DIR$/Bridge/Bridge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder/Builder.iml" filepath="$PROJECT_DIR$/Builder/Builder.iml" />
@@ -27,6 +28,7 @@
       <module fileurl="file://$PROJECT_DIR$/Probleme/Prototype - A.4 Clonare retete/Prototype - A.4 Clonare retete.iml" filepath="$PROJECT_DIR$/Probleme/Prototype - A.4 Clonare retete/Prototype - A.4 Clonare retete.iml" />
       <module fileurl="file://$PROJECT_DIR$/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Proxy/Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/Restaurant/Restaurant.iml" filepath="$PROJECT_DIR$/Singleton/Restaurant/Restaurant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RezolvariExercitii/RezolvariExercitii.iml" filepath="$PROJECT_DIR$/RezolvariExercitii/RezolvariExercitii.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/SimpleFactory.iml" filepath="$PROJECT_DIR$/SimpleFactory/SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/Spital/Spital.iml" filepath="$PROJECT_DIR$/Singleton/Spital/Spital.iml" />
