@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/Probleme/FactoryMethod-A.2.Spital/FactoryMethod-A.2.Spital.iml" filepath="$PROJECT_DIR$/Probleme/FactoryMethod-A.2.Spital/FactoryMethod-A.2.Spital.iml" />
       <module fileurl="file://$PROJECT_DIR$/Flyweight/Flyweight.iml" filepath="$PROJECT_DIR$/Flyweight/Flyweight.iml" />
       <module fileurl="file://$PROJECT_DIR$/Facade/HomeCinema/HomeCinema.iml" filepath="$PROJECT_DIR$/Facade/HomeCinema/HomeCinema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proxy/Imagine/Imagine.iml" filepath="$PROJECT_DIR$/Proxy/Imagine/Imagine.iml" />
       <module fileurl="file://$PROJECT_DIR$/Luchian_Raluca-Alexandra_ActivitateCTS2026.iml" filepath="$PROJECT_DIR$/Luchian_Raluca-Alexandra_ActivitateCTS2026.iml" />
       <module fileurl="file://$PROJECT_DIR$/Composite/Meniu/Meniu.iml" filepath="$PROJECT_DIR$/Composite/Meniu/Meniu.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bridge/Notificari/Notificari.iml" filepath="$PROJECT_DIR$/Bridge/Notificari/Notificari.iml" />
@@ -22,6 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/Probleme/Probleme.iml" filepath="$PROJECT_DIR$/Probleme/Probleme.iml" />
       <module fileurl="file://$PROJECT_DIR$/Adapter/ProcesorPlata/ProcesorPlata.iml" filepath="$PROJECT_DIR$/Adapter/ProcesorPlata/ProcesorPlata.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme/Prototype - A.4 Clonare retete/Prototype - A.4 Clonare retete.iml" filepath="$PROJECT_DIR$/Probleme/Prototype - A.4 Clonare retete/Prototype - A.4 Clonare retete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Proxy/Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/Restaurant/Restaurant.iml" filepath="$PROJECT_DIR$/Singleton/Restaurant/Restaurant.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/SimpleFactory.iml" filepath="$PROJECT_DIR$/SimpleFactory/SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
