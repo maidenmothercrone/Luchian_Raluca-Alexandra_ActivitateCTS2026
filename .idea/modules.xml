@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RezolvariExercitii/A.Spital/A.Spital.iml" filepath="$PROJECT_DIR$/RezolvariExercitii/A.Spital/A.Spital.iml" />
       <module fileurl="file://$PROJECT_DIR$/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Adapter/Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RezolvariExercitii/B.Restaurant/B.Restaurant.iml" filepath="$PROJECT_DIR$/RezolvariExercitii/B.Restaurant/B.Restaurant.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bridge/Bridge.iml" filepath="$PROJECT_DIR$/Bridge/Bridge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder/Builder.iml" filepath="$PROJECT_DIR$/Builder/Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme/Builder - D3 Cont Bancar/Builder - D3 Cont Bancar.iml" filepath="$PROJECT_DIR$/Probleme/Builder - D3 Cont Bancar/Builder - D3 Cont Bancar.iml" />
