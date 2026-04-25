@@ -19,6 +19,8 @@
       <module fileurl="file://$PROJECT_DIR$/Luchian_Raluca-Alexandra_ActivitateCTS2026.iml" filepath="$PROJECT_DIR$/Luchian_Raluca-Alexandra_ActivitateCTS2026.iml" />
       <module fileurl="file://$PROJECT_DIR$/Composite/Meniu/Meniu.iml" filepath="$PROJECT_DIR$/Composite/Meniu/Meniu.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bridge/Notificari/Notificari.iml" filepath="$PROJECT_DIR$/Bridge/Notificari/Notificari.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Observer/Observer.iml" filepath="$PROJECT_DIR$/Observer/Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Observer/ObserverMeteo/ObserverMeteo.iml" filepath="$PROJECT_DIR$/Observer/ObserverMeteo/ObserverMeteo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Flyweight/Padure/Padure.iml" filepath="$PROJECT_DIR$/Flyweight/Padure/Padure.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme/Probleme.iml" filepath="$PROJECT_DIR$/Probleme/Probleme.iml" />
       <module fileurl="file://$PROJECT_DIR$/Adapter/ProcesorPlata/ProcesorPlata.iml" filepath="$PROJECT_DIR$/Adapter/ProcesorPlata/ProcesorPlata.iml" />
