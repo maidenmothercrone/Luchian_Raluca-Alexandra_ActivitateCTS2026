@@ -24,6 +24,7 @@
       <module fileurl="file://$PROJECT_DIR$/Luchian_Raluca-Alexandra_ActivitateCTS2026.iml" filepath="$PROJECT_DIR$/Luchian_Raluca-Alexandra_ActivitateCTS2026.iml" />
       <module fileurl="file://$PROJECT_DIR$/Composite/Meniu/Meniu.iml" filepath="$PROJECT_DIR$/Composite/Meniu/Meniu.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bridge/Notificari/Notificari.iml" filepath="$PROJECT_DIR$/Bridge/Notificari/Notificari.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RezolvariExercitii/SubiecteExemplu/OMS/OMS.iml" filepath="$PROJECT_DIR$/RezolvariExercitii/SubiecteExemplu/OMS/OMS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer/Observer.iml" filepath="$PROJECT_DIR$/Observer/Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer/ObserverMeteo/ObserverMeteo.iml" filepath="$PROJECT_DIR$/Observer/ObserverMeteo/ObserverMeteo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Flyweight/Padure/Padure.iml" filepath="$PROJECT_DIR$/Flyweight/Padure/Padure.iml" />
@@ -36,6 +37,7 @@
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/SimpleFactory.iml" filepath="$PROJECT_DIR$/SimpleFactory/SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/Spital/Spital.iml" filepath="$PROJECT_DIR$/Singleton/Spital/Spital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RezolvariExercitii/SubiecteExemplu/SubiecteExemplu.iml" filepath="$PROJECT_DIR$/RezolvariExercitii/SubiecteExemplu/SubiecteExemplu.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/TemplateSimpleFactory/TemplateSimpleFactory.iml" filepath="$PROJECT_DIR$/SimpleFactory/TemplateSimpleFactory/TemplateSimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/template/template.iml" filepath="$PROJECT_DIR$/Singleton/template/template.iml" />
     </modules>
